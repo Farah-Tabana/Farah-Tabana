@@ -5,6 +5,10 @@
 - 📫 Let's connect on farah@edary.online.
 - My website is edary.online
 
+  ## Skills and Tools:
+ - Python sql MySQL  PowerBI
+
+
 
 
 
